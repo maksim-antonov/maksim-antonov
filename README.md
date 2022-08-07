@@ -1,5 +1,5 @@
 - 📫 How to reach me:
-- E-mail: ontonowskey@gmail.com and ontonowskey1@gmail.com for work offers
-- VK: https://vk.com/ontonowskey
-- Instagram: https://instagram.com/ontonowskey
-- Phone number: You may go to my VK profile, or knock to my e-mail or insta direct 👀
+- E-mail: ontonowskey1@gmail.com for work
+- Telegram: @ontonowskey
+- LinkedIn: https://linkedin.com/in/ontonowskey/
+- Phone number: You may knock to my e-mail, telegram or LinkedIn 👀
