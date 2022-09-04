@@ -52,7 +52,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ontonowskey)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ontonowskey1@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ontonowskey/)
-[![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram?logoColor=white)](https://t.me/ontonowskey)
+[![telegram](https://img.shields.io/badge/Telegram-e2eeff?style=for-the-badge&logo=telegram)](https://t.me/ontonowskey)
 - 📫 How to reach me:
 - E-mail: ontonowskey1@gmail.com for work
 - Telegram: @ontonowskey
