@@ -20,7 +20,7 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End Development
-![webapi](https://img.shields.io/badge/Web API-893acb?style=for-the-badge&logo=dotnet&logoColor=white)
+![webapi](https://img.shields.io/badge/Web%20API-893acb?style=for-the-badge&logo=dotnet&logoColor=white)
 ![entityframework](https://img.shields.io/badge/entityframework%20core-black?style=for-the-badge&logo=dotnet)
 
 ### Database Tools
