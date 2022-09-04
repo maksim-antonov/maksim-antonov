@@ -1,9 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
-🎓 I am Maksim Antonov. A **Backend Engineer** (specializing in .NET services and cross-platform apps)
-💪 I am ready to offer solutions and successfully implement them as part of a team
-👨‍💻 I have **2 years** of full time commercial experience
-<img src="https://media2.giphy.com/media/H34Lw5mMO47iBsppBW/giphy.gif?cid=ecf05e47bedvh2rgdxetp0u2tkxp3tdwtb3itut0g5jw63r4&rid=giphy.gif&ct=s" width="29px" height="29px">Living in Warsaw now
+🎓 I am Maksim Antonov. A **Backend Engineer** (specializing in .NET services and cross-platform apps) #
+💪 I am ready to offer solutions and successfully implement them as part of a team #
+👨‍💻 I have **2 years** of full time commercial experience #
+<img src="https://media2.giphy.com/media/H34Lw5mMO47iBsppBW/giphy.gif?cid=ecf05e47bedvh2rgdxetp0u2tkxp3tdwtb3itut0g5jw63r4&rid=giphy.gif&ct=s" width="29px" height="29px">Living in Warsaw now #
 🍕 Looking for a good job
 
 ## 🛠️ Skills
