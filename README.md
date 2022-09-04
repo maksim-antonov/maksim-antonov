@@ -6,7 +6,7 @@
 
 👨‍💻 I have **2 years** of full time commercial experience 
 
-<img src="https://media2.giphy.com/media/H34Lw5mMO47iBsppBW/giphy.gif?cid=ecf05e47bedvh2rgdxetp0u2tkxp3tdwtb3itut0g5jw63r4&rid=giphy.gif&ct=s" width="29px" height="29px">Living in Warsaw now 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Flag_of_Poland_2.svg/320px-Flag_of_Poland_2.svg.png" width="24px" height="24px">Living in Warsaw now 
 
 🍕 Looking for a good job
 
