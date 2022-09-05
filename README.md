@@ -14,18 +14,9 @@
 
 ### Languages
 
+![c#](https://img.shields.io/badge/CSHARP-893acb?style=for-the-badge&logo=csharp&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![c#](https://img.shields.io/badge/CSHARP-893acb?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Front-End Development
-
-![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Back-End Development
 ![webapi](https://img.shields.io/badge/Web%20API-893acb?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -43,6 +34,15 @@
 ### Testing
 
 ![xunit](https://img.shields.io/badge/xUnit.NET-c9c8ce?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDMuODUiIHZpZXdCb3g9IjAgMCA0MDMuODQ1MTIgNzcuODgxMjQ4Ij48ZyB0cmFuc2Zvcm09Im1hdHJpeCgxLjI1IDAgMC0xLjI1LTQ4LjA4IDE2My45NCkiPjxnIGZpbGw9IiMxYzFjMWMiPjxwYXRoIGQ9Im0wIDB2MzcuMmg1LjEwMXYtMzYuNTAyYzAtMTQuNCA3LjgtMjEuMSAxOC40LTIxLjEgMTAuNjAxIDAgMTguNTAyIDYuNzAxIDE4LjUwMiAyMS4xdjM2LjUwMmg1LjF2LTM3LjJjMC0xNi45LTEwLjQtMjUuMS0yMy42MDItMjUuMS0xMy4yIDAtMjMuNTAxIDguMjAyLTIzLjUwMSAyNS4xIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg5MC43NyA5My45NSkiLz48cGF0aCBkPSJtMCAwaDV2LTcuMWMyLjcgNC4yMDEgNy45MDEgOCAxNC4yMDEgOCAxMC4xIDAgMTUuNDAxLTYuNSAxNS40MDEtMTUuOTAxdi0yOS40MDJoLTQuOXYyOC43MDNjMCA2LjktMy41IDEyLTExLjQwMSAxMi02LjEgMC0xMS4xLTQuMy0xMy4zMDEtOS42MDF2LTMxLjFoLTV2NDQuNCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTQ5LjI4IDExNC4xNSkiLz48cGF0aCBkPSJtMTk5LjkxIDY5Ljc1aC01djQ0LjRoNXYtNDQuNG0tMi41IDU0LjVjLTEuOSAwLTMuNCAxLjUwMS0zLjQgMy40MDEgMCAxLjgwMSAxLjUgMy40IDMuNCAzLjQgMS45IDAgMy40MDEtMS41OTkgMy40MDEtMy40IDAtMS45LTEuNTAxLTMuNDAxLTMuNDAxLTMuNDAxIi8+PHBhdGggZD0ibTAgMGgtNy41MDF2NC4zaDcuNTAxdjExLjQwMWg0Ljl2LTExLjQwMWgxMS41di00LjNoLTExLjV2LTI5LjNjMC01IDIuMi03LjE5OSA2LjQtNy4xOTkgMi4yMDEgMCA0LjQuNjk5IDYuMSAxLjY5OXYtNC43MDFjLTEuNy0uODk5LTQuMi0xLjUtNi42LTEuNS02LjUgMC0xMC44IDMuNjAxLTEwLjggMTEuMjAxdjI5LjgwMiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjEzLjgzIDEwOS44NSkiLz48cGF0aCBkPSJtMCAwYzIuMTAxIDAgMy44LTEuNjk5IDMuOC0zLjkgMC0yLjEtMS42OTktMy43OTktMy44LTMuNzk5LTIgMC0zLjcgMS42OTktMy43IDMuNzk5IDAgMi4yMDEgMS43IDMuOSAzLjcgMy45IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNDAuMzcgNzcuMTUpIi8+PHBhdGggZD0ibTAgMGg1di03LjFjMi43IDQuMjAxIDcuOSA4IDE0LjIwMSA4IDEwLjEgMCAxNS40MDEtNi41IDE1LjQwMS0xNS45MDF2LTI5LjQwMmgtNC45MDF2MjguNzAzYzAgNi45LTMuNSAxMi0xMS40IDEyLTYuMSAwLTExLjEtNC4zLTEzLjMwMS05LjYwMXYtMzEuMWgtNXY0NC40IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyNTMuMTkgMTE0LjE1KSIvPjxwYXRoIGQ9Im0wIDBoMjcuNTAyYy0uMzAxIDcuODAxLTQuMjAxIDE1LjIwMi0xMyAxNS4yMDItOCAwLTEzLjUwMS01LjkwMS0xNC41MDEtMTUuMjAybTMxLjgwMy0xMi44MDFjLTEuNzAxLTguMTk5LTcuOTAyLTEzLjgwMS0xNy4yMDEtMTMuODAxLTExLjcwMiAwLTE5LjcwMiA5LjMwMS0xOS43MDIgMjMuMSAwIDEzLjIwMiA3LjUgMjMuMSAxOS42MDEgMjMuMSAxMS44MDEgMCAxOC05LjEwMSAxOC0yMS43MDJ2LTEuNzk4aC0zMi43MDFjLjA5OS0xMS4zMDEgNi4xOTktMTguMzAzIDE0LjgwMS0xOC4zMDMgNi4yOTkgMCAxMSAzLjUgMTIuNCA5LjRoNC44MDF6IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMDEuNDEgOTUuNDUpIi8+PHBhdGggZD0ibTAgMGgtNy41djQuM2g3LjV2MTEuNDAxaDQuOXYtMTEuNDAxaDExLjUwMnYtNC4zaC0xMS41MDJ2LTI5LjNjMC01IDIuMjAyLTcuMTk5IDYuNDAxLTcuMTk5IDIuMjAxIDAgNC40LjY5OSA2LjEwMSAxLjY5OXYtNC43MDFjLTEuNzAxLS44OTktNC4yMDEtMS41LTYuNjAxLTEuNS02LjUgMC0xMC44MDEgMy42MDEtMTAuODAxIDExLjIwMXYyOS44MDIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0NC4xNCAxMDkuODUpIi8+PC9nPjxwYXRoIGQ9Im0wIDBsLTEuMjU5LTEuMjYtMTUuMDkgMTUuMDktMTUuMDktMTUuMDktMS4yNTggMS4yNiAxNS4wOSAxNS4wOS0xNS4wOSAxNS4wOSAxLjI1OCAxLjI1OSAxNS4wOS0xNS4wOSAxNS4wOSAxNS4wOSAxLjI1OS0xLjI1OS0xNS4wOS0xNS4wOSAxNS4wOS0xNS4wOW02LjE1NCAyOC44MzNsLTguNzUyIDguNzUzLTEzLjc0OC0xMy43NDktMTMuNzQ3IDEzLjc0OS04Ljc1My04Ljc1MyAxMy43NDgtMTMuNzQ3LTEzLjc0OC0xMy43NDggOC43NTMtOC43NTIgMTMuNzQ3IDEzLjc0OCAxMy43NDgtMTMuNzQ4IDguNzUyIDguNzUyLTEzLjc0NyAxMy43NDggMTMuNzQ3IDEzLjc0NyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNzcuMzEgNzYuOCkiLz48L2c+PC9zdmc+&logoColor=white)
+
+### Front-End Development
+
+![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## 🖥️ Workspace Setup
 
