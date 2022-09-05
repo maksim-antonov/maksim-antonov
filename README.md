@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
-🎓 I am Maksim Antonov. A **Backend Engineer** (specializing in .NET services and cross-platform apps) 
+🎓 I am Maksim Antonov. A **Backend Developer** (specializing in .NET services and cross-platform apps) 
 
 💪 I am ready to offer solutions and successfully implement them as part of a team 
 
