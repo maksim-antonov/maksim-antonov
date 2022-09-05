@@ -14,6 +14,12 @@
 
 ### Languages
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Unofficial_flag_of_the_Russian_anti-war_movement.svg/320px-Unofficial_flag_of_the_Russian_anti-war_movement.svg.png"> __Russian__ - C2 (Native)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"> __English__ - A2/B1 (In progress)
+
+### Programming Languages
+
 ![c#](https://img.shields.io/badge/CSHARP-893acb?style=for-the-badge&logo=csharp&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
