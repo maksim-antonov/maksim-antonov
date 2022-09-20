@@ -60,19 +60,19 @@
 ![rider](https://img.shields.io/badge/jetbrains%20rider-black?style=for-the-badge&logo=rider)
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ontonowskey&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maksim-antonov&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=ontonowskey&show_icons=true&hide_border=true" alt="Maksim Antonov's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=maksim-antonov&show_icons=true&hide_border=true" alt="Maksim Antonov's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ontonowskey.ontonowskey" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=maksim-antonov.maksim-antonov" alt="visitors">
 </div>
 
 ## 🔗 How to reach me
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1DBfFaBcqDHAss8Rb5fcwNyKfuUTukPbj/view?usp=sharing)
 [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ee8d86e0e5fc50ce)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ontonowskey/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ontonowskey)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ontonowskey1@gmail.com)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksimantonov/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maksim-antonov)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maksimantonov.net@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ontonowskey/)
 [![telegram](https://img.shields.io/badge/Telegram-e2eeff?style=for-the-badge&logo=telegram)](https://t.me/ontonowskey)
