@@ -63,8 +63,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=maksim-antonov&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=maksim-antonov&show_icons=true&hide_border=true" alt="Maksim Antonov's GitHub Stats">
-    <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=maksim-antonov.maksim-antonov" alt="visitors">
 </div>
 
 ## 🔗 How to reach me
