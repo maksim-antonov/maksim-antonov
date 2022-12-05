@@ -4,7 +4,7 @@
 
 💪 I am ready to offer solutions and successfully implement them as part of a team 
 
-👨‍💻 I have **2 years** of full time commercial experience 
+👨‍💻 I have **3 years** of full time commercial experience 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Flag_of_Poland_2.svg/320px-Flag_of_Poland_2.svg.png" width="15px" style="margin-right:10px;"> Living in **Warsaw** now 
 
