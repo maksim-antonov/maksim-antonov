@@ -14,7 +14,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Unofficial_flag_of_the_Russian_anti-war_movement.svg/320px-Unofficial_flag_of_the_Russian_anti-war_movement.svg.png" width="20px"> __Russian__ - C2 (Native)
 
-<img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"> <img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"> __English__ - B1 (In progress)
+<img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"> <img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"> __English__ - B2
 
 ### Programming Languages
 
