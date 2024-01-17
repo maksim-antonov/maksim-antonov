@@ -65,8 +65,7 @@
 
 ## 🔗 How to reach me
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maksimantonov/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/max-antonov/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/maksim-antonov)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maksimantonov.net@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ontonowskey/)
-[![telegram](https://img.shields.io/badge/Telegram-e2eeff?style=for-the-badge&logo=telegram)](https://t.me/ontonowskey)
+[![telegram](https://img.shields.io/badge/Telegram-e2eeff?style=for-the-badge&logo=telegram)](https://t.me/maksimantonov_waw)
