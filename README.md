@@ -4,7 +4,7 @@
 
 💪 I am ready to offer solutions and successfully implement them as part of a team 
 
-👨‍💻 I have **3 years** of full time commercial experience 
+👨‍💻 I have **4 years** of full time commercial experience 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Flag_of_Poland_2.svg/320px-Flag_of_Poland_2.svg.png" width="15px" style="margin-right:10px;"> Living in **Warsaw** now 
 
@@ -14,7 +14,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Unofficial_flag_of_the_Russian_anti-war_movement.svg/320px-Unofficial_flag_of_the_Russian_anti-war_movement.svg.png" width="20px"> __Russian__ - C2 (Native)
 
-<img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"> <img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"> __English__ - B2
+<img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/320px-Flag_of_the_United_Kingdom.svg.png"> <img width="20px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/320px-Flag_of_the_United_States.svg.png"> __English__ - C1
 
 ### Programming Languages
 
